@@ -1,5 +1,5 @@
 # Java Game Engine 3
-##Note: there is literally no reason anyone should ever use this engine in a reasonable project
+##Note: there is literally no reason anyone should ever use this engine in a reasonable project (why there isn't a .jar library)
 
 This was the 3rd revision of a game engine I made in Java a loooonggggg time ago. It was my first big project and as such is also very (and I do mean VERY) rough.  
 
