@@ -24,3 +24,6 @@ Does not have:
 2. A networking system (ignore the "NetworkingTest" in tests)
 3. An easy to use interface
 4. A good skeletal animation system (The "AnimationTest" is kind of broken)
+
+<br><br>
+NOTE: Most likely broken due to some new jdk and/or lwjgl complications (and/or glsl complications too)
